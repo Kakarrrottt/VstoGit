@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("From vsCode");
+    printf("Hello world");
     return 0;
 }
