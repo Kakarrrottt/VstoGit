@@ -1,0 +1,2 @@
+# VstoGit
+vsCode to Git
